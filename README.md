@@ -23,9 +23,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## 📸 Vista previa
+### 📸 Vista previa
 
 ![PabloTC Fishing](https://pablotcfishing.com/og-image.webp)
 
@@ -33,9 +31,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## 🚀 Tecnologías utilizadas
+### 🚀 Tecnologías utilizadas
 
 | Frontend | Backend | Infraestructura |
 |:---:|:---:|:---:|
@@ -47,9 +43,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## ✨ Características
+### ✨ Características
 
 | **General** |
 |:---|
@@ -90,9 +84,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## 🔒 Seguridad (Headers A+)
+### 🔒 Seguridad (Headers A+)
 
 | Cabecera | Protección |
 |:---|:---|
@@ -105,15 +97,13 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
-🔐 **Medidas adicionales:** Archivo `.env` bloqueado, credenciales ocultas y mensajes de error genéricos para evitar exposición de rutas internas.
+🔐 **Medidas adicionales:** Archivo `.env` bloqueado, credenciales ocultas y mensajes de error genéricos.
 
 <br>
 
 ---
 
-<br>
-
-## 📧 Configuración de Email
+### 📧 Configuración de Email
 
 | Parámetro | Estado |
 |:---|:---:|
@@ -125,9 +115,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## 🔍 SEO & Analytics
+### 🔍 SEO & Analytics
 
 | **Estrategia y Seguimiento** |
 |:---|
@@ -142,9 +130,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ---
 
-<br>
-
-## 📬 Contacto
+### 📬 Contacto
 
 📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com) <br><br>
 🎥 [YouTube](https://www.youtube.com/@PabloTCFishing) • 📸 [Instagram](https://instagram.com/PabloTCFishing) • 🎵 [TikTok](https://tiktok.com/@PabloTCFishing)
@@ -152,8 +138,6 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 <br>
 
 ---
-
-<br>
 
 <sub>Hecho con pasión por la pesca deportiva 🎣</sub>
 
