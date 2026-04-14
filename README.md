@@ -60,11 +60,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | **Secciones de la web** |
 |:---|
 | 🏠 **Inicio** — Hero, Sobre mí, Equipo, Redes, Contacto |
-| 🎣 **Cañas** — 6 modelos premium con specs completas |
-| ⚙️ **Carretes** — 6 modelos de competición |
-| 🎒 **Accesorios** — Selección de +10 esenciales |
-| 🪝 **Anzuelos** — +15 tipos con consejos técnicos |
-| 🧵 **Hilos** — 6 tipos profesionales por técnica |
+| 🎣 **Cañas** — Modelos premium con specs completas |
+| ⚙️ **Carretes** — Modelos de competición |
+| 🎒 **Accesorios** — Selección de esenciales |
+| 🪝 **Anzuelos** — Anzuelos con consejos técnicos |
+| 🧵 **Hilos** — Tipos de hilos profesionales por técnica |
 | ⚓ **Plomos** — Guía completa por situación |
 
 <br>
