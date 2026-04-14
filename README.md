@@ -53,47 +53,51 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ## ✨ Características
 
-### General
-⚡ SPA con code splitting y lazy loading por ruta
-🌙 Modo oscuro / claro con sincronización entre pestañas
-🌍 Bilingüe — Español / Inglés con sistema de traducciones propio
-📱 Totalmente responsive — móvil, tablet y escritorio
-🖼️ Imágenes en formato WebP optimizadas con preload para mejorar el LCP
-🗜️ Compresión Gzip y Brotli activas
-🚀 HTTP/2 activo
-📦 Caché de assets estáticos de 1 año
+### **General**
+⚡ SPA con code splitting y lazy loading por ruta <br>
+🌙 Modo oscuro / claro con sincronización entre pestañas <br>
+🌍 Bilingüe — Español / Inglés con sistema de traducciones propio <br>
+📱 Totalmente responsive — móvil, tablet y escritorio <br>
+🖼️ Imágenes en formato WebP optimizadas con preload para mejorar el LCP <br>
+🗜️ Compresión Gzip y Brotli activas <br>
+🚀 HTTP/2 activo <br>
+📦 Caché de assets estáticos de 1 año <br>
 
-### Secciones de la web
-**Inicio** — Hero, Sobre mí, Resumen del equipo, Redes sociales, Contacto
-**Cañas de pesca** — 6 cañas premium con especificaciones completas y opinión personal
-**Carretes** — 6 carretes de competición con especificaciones completas
-**Accesorios** — Más de 10 accesorios esenciales
-**Anzuelos** — Más de 15 tipos de anzuelos premium con consejo de veterano
-**Hilos** — 6 tipos de hilo profesional para cada técnica
-**Plomos** — Selección completa para cada situación de pesca
+<br>
 
-### Formulario de contacto
-✅ Validación doble — frontend y backend
-✅ Detección de emails temporales y dominios falsos
-✅ Campo honeypot anti-bot
-✅ Control de tiempo mínimo de relleno (anti-bot)
-✅ Rate limit: 1 envío cada 30 segundos por IP
-✅ Rate limit: 5 envíos máximos por día por IP
-✅ Detección de patrones XSS
-✅ Detección de inyección SQL
-✅ Sanitización de todos los inputs
-✅ Validación de longitud mínima y máxima
-✅ Prepared statements en todas las consultas a la base de datos
-✅ Checkbox de aceptación de privacidad obligatorio (RGPD)
-✅ Contador regresivo visual cuando se alcanza el límite de tiempo
-✅ Doble email — notificación al propietario y confirmación al usuario
-✅ Versión en texto plano en todos los emails
+### **Secciones de la web**
+**Inicio** — Hero, Sobre mí, Resumen del equipo, Redes sociales, Contacto <br>
+**Cañas de pesca** — 6 cañas premium con especificaciones completas <br>
+**Carretes** — 6 carretes de competición con especificaciones completas <br>
+**Accesorios** — Más de 10 accesorios esenciales <br>
+**Anzuelos** — Más de 15 tipos de anzuelos premium <br>
+**Hilos** — 6 tipos de hilo profesional para cada técnica <br>
+**Plomos** — Selección completa para cada situación de pesca <br>
+
+<br>
+
+### **Formulario de contacto**
+✅ Validación doble — frontend y backend <br>
+✅ Detección de emails temporales y dominios falsos <br>
+✅ Campo honeypot anti-bot <br>
+✅ Control de tiempo mínimo de relleno (anti-bot) <br>
+✅ Rate limit: 1 envío cada 30 segundos por IP <br>
+✅ Rate limit: 5 envíos máximos por día por IP <br>
+✅ Detección de patrones XSS <br>
+✅ Detección de inyección SQL <br>
+✅ Sanitización de todos los inputs <br>
+✅ Validación de longitud mínima y máxima <br>
+✅ Prepared statements en todas las consultas a la base de datos <br>
+✅ Checkbox de aceptación de privacidad obligatorio (RGPD) <br>
+✅ Contador regresivo visual <br>
+✅ Doble email — notificación y confirmación <br>
+✅ Versión en texto plano en todos los emails <br>
 
 ---
 
 ## 🔒 Seguridad
 
-### Cabeceras HTTP de seguridad — **Nota A+ en securityheaders.com**
+### **Cabeceras HTTP de seguridad — Nota A+**
 
 | Cabecera | Protección |
 |:---:|:---:|
@@ -105,12 +109,14 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | `Permissions-Policy` | Geolocalización, micrófono y cámara desactivados |
 | `X-Powered-By` | Eliminado — no expone tecnología del servidor |
 
-### Medidas adicionales
-🔐 HTTPS forzado con redirección permanente
-🔐 Archivo `.env` bloqueado completamente a nivel de servidor
-🔐 Todas las credenciales en `.env` — nunca en el código fuente
-🔐 Mensajes de error genéricos — no expone información interna
-🔐 Códigos de respuesta HTTP correctos según cada situación
+<br>
+
+### **Medidas adicionales**
+🔐 HTTPS forzado con redirección permanente <br>
+🔐 Archivo `.env` bloqueado completamente a nivel de servidor <br>
+🔐 Todas las credenciales en `.env` — nunca en el código fuente <br>
+🔐 Mensajes de error genéricos — no expone información interna <br>
+🔐 Códigos de respuesta HTTP correctos según cada situación <br>
 
 ---
 
@@ -135,31 +141,30 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | Google Analytics 4 | Solo si el usuario acepta cookies analíticas |
 | Meta Pixel | Solo si el usuario acepta cookies de marketing |
 
-Ambos servicios se cargan de forma **condicional** — únicamente tras el consentimiento explícito del usuario mediante el banner de cookies, cumpliendo con el RGPD.
+Ambos servicios se cargan de forma **condicional** tras el consentimiento.
 
 ---
 
 ## 🍪 Consentimiento de Cookies
 
-Banner con opciones: Aceptar todo / Rechazar / Configurar
-3 categorías: Necesarias, Analíticas, Marketing
-Preferencias guardadas en cookies reales (no en localStorage)
-100% cumplimiento con el RGPD
+Banner con opciones: Aceptar todo / Rechazar / Configurar <br>
+3 categorías: Necesarias, Analíticas, Marketing <br>
+Preferencias guardadas en cookies reales <br>
+100% cumplimiento con el RGPD <br>
 
 ---
 
 ## 🔍 SEO
 
-✅ Meta tags completos (descripción, palabras clave, autor, robots)
-✅ Open Graph completo (Facebook, WhatsApp)
-✅ Twitter Card configurada
-✅ Schema.org JSON-LD (`Person` + `WebSite`)
-✅ Sitemap XML enviado a Google Search Console y Bing Webmaster Tools
-✅ URL canónica configurada
-✅ Favicon en `.ico` y `.png` con múltiples tamaños
-✅ Contenido estático en `<noscript>` para crawlers sin JavaScript
-✅ Indexado en Google
-✅ Indexado en Bing
+✅ Meta tags completos (descripción, keywords, author, robots) <br>
+✅ Open Graph completo (Facebook, WhatsApp) <br>
+✅ Twitter Card configurada <br>
+✅ Schema.org JSON-LD (`Person` + `WebSite`) <br>
+✅ Sitemap XML en Google Search Console y Bing <br>
+✅ URL canónica configurada <br>
+✅ Favicon en `.ico` y `.png` con múltiples tamaños <br>
+✅ Contenido estático en `<noscript>` para crawlers <br>
+✅ Indexado en Google y Bing <br>
 
 ---
 
@@ -171,10 +176,10 @@ Preferencias guardadas en cookies reales (no en localStorage)
 
 ## 📬 Contacto
 
-📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com)
-🎥 [YouTube @PabloTCFishing](https://www.youtube.com/@PabloTCFishing)
-📸 [Instagram @PabloTCFishing](https://instagram.com/PabloTCFishing)
-🎵 [TikTok @PabloTCFishing](https://tiktok.com/@PabloTCFishing)
+📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com) <br>
+🎥 [YouTube @PabloTCFishing](https://www.youtube.com/@PabloTCFishing) <br>
+📸 [Instagram @PabloTCFishing](https://instagram.com/PabloTCFishing) <br>
+🎵 [TikTok @PabloTCFishing](https://tiktok.com/@PabloTCFishing) <br>
 
 ---
 
