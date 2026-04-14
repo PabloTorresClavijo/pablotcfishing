@@ -6,8 +6,12 @@
 
 </div>
 
+<br>
+
 > [!NOTE]
 > **Repositorio público de portfolio** — El código fuente completo se mantiene en un repositorio privado por razones de seguridad y propiedad intelectual. Este espacio sirve como portfolio técnico y documentación de arquitectura para reclutadores y desarrolladores interesados en el proyecto.
+
+<br>
 
 <div align="center">
 
@@ -15,13 +19,21 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 🌐 **Web en vivo:** [pablotcfishing.com](https://pablotcfishing.com)
 
+<br>
+
 ---
+
+<br>
 
 ## 📸 Vista previa
 
 ![PabloTC Fishing](https://pablotcfishing.com/og-image.webp)
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 Tecnologías utilizadas
 
@@ -31,7 +43,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | TypeScript | PHPMailer | SMTP Seguro |
 | Vite / Tailwind | MySQL | HTTP/2 / Brotli |
 
+<br>
+
 ---
+
+<br>
 
 ## ✨ Características
 
@@ -45,7 +61,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | 🖼️ Imágenes WebP optimizadas con preload (LCP) |
 | 🗜️ Compresión Gzip y Brotli / HTTP/2 activo |
 | 📦 Caché de assets estáticos de 1 año |
+
+<br>
+
 | |
+|:---|
 | **Secciones de la web** |
 | 🏠 **Inicio** — Hero, Sobre mí, Equipo, Redes, Contacto |
 | 🎣 **Cañas** — 6 modelos premium con specs completas |
@@ -54,7 +74,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | 🪝 **Anzuelos** — +15 tipos con consejos técnicos |
 | 🧵 **Hilos** — 6 tipos profesionales por técnica |
 | ⚓ **Plomos** — Guía completa por situación |
+
+<br>
+
 | |
+|:---|
 | **Formulario de contacto (Seguridad)** |
 | ✅ Validación doble (Frontend & Backend) |
 | ✅ Detección de emails temporales y dominios falsos |
@@ -65,7 +89,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | ✅ Checkbox RGPD obligatorio y contador regresivo |
 | ✅ Doble notificación vía SMTP (Propietario/Usuario) |
 
+<br>
+
 ---
+
+<br>
 
 ## 🔒 Seguridad (Headers A+)
 
@@ -78,7 +106,15 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | `Permissions-Policy` | Hardware desactivado (Micro/Cam/Geo) |
 | `X-Powered-By` | Oculto (Security by obscurity) |
 
+<br>
+
+🔐 **Medidas adicionales:** Archivo `.env` bloqueado, credenciales ocultas y mensajes de error genéricos para evitar exposición de rutas internas.
+
+<br>
+
 ---
+
+<br>
 
 ## 📧 Configuración de Email
 
@@ -88,7 +124,11 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | **Mail-tester Score** | **10 / 10** |
 | **Inbox Delivery** | ✅ Gmail & Outlook |
 
+<br>
+
 ---
+
+<br>
 
 ## 🔍 SEO & Analytics
 
@@ -101,14 +141,22 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | ✅ Google Analytics 4 & Meta Pixel (Carga condicional) |
 | ✅ **RGPD Compliance**: Banner de cookies por categorías |
 
+<br>
+
 ---
+
+<br>
 
 ## 📬 Contacto
 
-📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com) <br>
+📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com) <br><br>
 🎥 [YouTube](https://www.youtube.com/@PabloTCFishing) • 📸 [Instagram](https://instagram.com/PabloTCFishing) • 🎵 [TikTok](https://tiktok.com/@PabloTCFishing)
 
+<br>
+
 ---
+
+<br>
 
 <sub>Hecho con pasión por la pesca deportiva 🎣</sub>
 
