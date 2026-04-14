@@ -51,9 +51,8 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ## ✨ Características
 
-| |
-|:---|
 | **General** |
+|:---|
 | ⚡ SPA con code splitting y lazy loading por ruta |
 | 🌙 Modo oscuro / claro con sincronización entre pestañas |
 | 🌍 Bilingüe — Español / Inglés (Sistema propio) |
@@ -64,9 +63,8 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
-| |
-|:---|
 | **Secciones de la web** |
+|:---|
 | 🏠 **Inicio** — Hero, Sobre mí, Equipo, Redes, Contacto |
 | 🎣 **Cañas** — 6 modelos premium con specs completas |
 | ⚙️ **Carretes** — 6 modelos de competición |
@@ -77,9 +75,8 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
-| |
-|:---|
 | **Formulario de contacto (Seguridad)** |
+|:---|
 | ✅ Validación doble (Frontend & Backend) |
 | ✅ Detección de emails temporales y dominios falsos |
 | ✅ Campo honeypot anti-bot y tiempo mínimo (3s) |
@@ -132,7 +129,7 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 ## 🔍 SEO & Analytics
 
-| |
+| **Estrategia y Seguimiento** |
 |:---|
 | ✅ Meta tags completos & Open Graph (Social) |
 | ✅ Schema.org JSON-LD (Person + WebSite) |
