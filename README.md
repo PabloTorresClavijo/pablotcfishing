@@ -1,11 +1,15 @@
-<div align="center">
+# <div align="center"> 🎣 PabloTC Fishing — Portfolio Personal de Pesca </div>
 
-# 🎣 PabloTC Fishing — Portfolio Personal de Pesca
+<div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+</div>
+
 > [!NOTE]
 > **Repositorio público de portfolio** — El código fuente completo se mantiene en un repositorio privado por razones de seguridad y propiedad intelectual. Este espacio sirve como portfolio técnico y documentación de arquitectura para reclutadores y desarrolladores interesados en el proyecto.
+
+<div align="center">
 
 Portfolio personal de **PabloTC Fishing** — un pescador apasionado que comparte su equipo, técnicas y experiencias desde las costas de Huelva y Cádiz.
 
