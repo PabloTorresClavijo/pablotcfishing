@@ -21,17 +21,9 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
----
-
-<br>
-
 ## 📸 Vista previa
 
 ![PabloTC Fishing](https://pablotcfishing.com/og-image.webp)
-
-<br>
-
----
 
 <br>
 
@@ -42,10 +34,6 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | React 18 | PHP 8 | Hostinger |
 | TypeScript | PHPMailer | SMTP Seguro |
 | Vite / Tailwind | MySQL | HTTP/2 / Brotli |
-
-<br>
-
----
 
 <br>
 
@@ -88,10 +76,6 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
----
-
-<br>
-
 ## 🔒 Seguridad (Headers A+)
 
 | Cabecera | Protección |
@@ -109,10 +93,6 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
----
-
-<br>
-
 ## 📧 Configuración de Email
 
 | Parámetro | Estado |
@@ -120,10 +100,6 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 | **SPF / DKIM / DMARC** | ✅ Configurado y validado |
 | **Mail-tester Score** | **10 / 10** |
 | **Inbox Delivery** | ✅ Gmail & Outlook |
-
-<br>
-
----
 
 <br>
 
@@ -140,18 +116,10 @@ Portfolio personal de **PabloTC Fishing** — un pescador apasionado que compart
 
 <br>
 
----
-
-<br>
-
 ## 📬 Contacto
 
 📧 [contacto@pablotcfishing.com](mailto:contacto@pablotcfishing.com) <br><br>
 🎥 [YouTube](https://www.youtube.com/@PabloTCFishing) • 📸 [Instagram](https://instagram.com/PabloTCFishing) • 🎵 [TikTok](https://tiktok.com/@PabloTCFishing)
-
-<br>
-
----
 
 <br>
 
